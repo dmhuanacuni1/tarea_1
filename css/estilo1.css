@@ -1,0 +1,56 @@
+.cap1{
+    background-color: rgb(250, 209, 216);
+    width: 600px;
+    height: 800px;
+    padding: 15px;
+    margin: 10px;
+}
+.cap2{
+    background-color: rgb(231, 171, 184);
+    width: 550px;
+    height: 750px;
+    padding: 15px;
+    margin: 10px;
+}
+.cap3{
+    background-color: rgb(201, 143, 156);
+    width: 500px;
+    height: 700px;
+    padding: 15px;
+    margin: 10px;
+}
+.cap4{
+    background-color: rgb(173, 121, 133);
+    width: 450px;
+    height: 650px;
+    padding: 15px;
+    margin: 10px;
+}
+.cap5{
+    background-color: rgb(158, 111, 122);
+    width: 400px;
+    height: 600px;
+    padding: 15px;
+    margin: 10px;
+}
+.cap6{
+    background-color: rgb(134, 91, 101);
+    width: 350px;
+    height: 550px;
+    padding: 15px;
+    margin: 10px;
+}
+.cap7{
+    background-color: rgb(122, 83, 92);
+    width: 300px;
+    height: 500px;
+    padding: 15px;
+    margin: 10px;
+}
+p{
+    color: blanchedalmond;
+    font-family: love;
+    font-size: 65px;
+    
+}
+
